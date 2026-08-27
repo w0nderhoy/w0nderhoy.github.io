@@ -1,0 +1,8 @@
+Origin: w0nderhoy
+Label: w0nderhoy's repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: a cydia repo built on Reposi3
