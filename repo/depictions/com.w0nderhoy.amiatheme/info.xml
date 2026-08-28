@@ -12,7 +12,10 @@
 	</dependencies>
 	<shortDescription>A theme with cute icons!</shortDescription>
 	<descriptionlist>
-		<description>Lil' PP.</description>
+		<description>A theme featuring Akiyama Mizuki from Project SEKAI.</description>
+		<br></br>
+		<description>Tested on an iPhone 5s running iOS 12.5.8, with SnowBoard.</description>
+		<description>Other iDevices, iOS versions, and Anemone have not been tested.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -25,15 +28,15 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>First release</change>
+		<change>It has Akiyama Mizuki</change>
+		<change>It has more Akiyama Mizuki</change>
 	</changelog>
 	<links>
 		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
+			<name>Super Fucking Mario</name>
+			<url>https://superfuckingmario.com/</url>
+			<iconclass>fa</iconclass>
 		</link>
 	</links>
 </package>
