@@ -36,7 +36,7 @@
 		<link>
 			<name>Super Fucking Mario</name>
 			<url>https://superfuckingmario.com/</url>
-			<iconclass>fa</iconclass>
+			<iconclass>fa fa-thumbs-up</iconclass>
 		</link>
 	</links>
 </package>
