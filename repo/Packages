@@ -3,10 +3,10 @@ Version: 1.0
 Section: Themes
 Maintainer: w0nderhoy <partitionhlep@gmail.com>
 Depends: com.spark.snowboard
-Architecture: iphoneos-arm
-Filename: ./debs/com.w0nderhoy.amiatheme_1.0_iphoneos-arm.deb
+Architecture: iphoneos-arm64
+Filename: ./debs/com.w0nderhoy.amiatheme_1.0_iphoneos-arm64.deb
 Size: 10145124
-MD5sum: c73466cb0beb16bb6ea3c60fdf2369b2
+MD5sum: 4bc746184e4ea878017120dc9dc98eda
 Description: A theme with cute icons!
 Name: Akiyama Mizuki Theme
 Author: w0nderhoy <partitionhlep@gmail.com>
