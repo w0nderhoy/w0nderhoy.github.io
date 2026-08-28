@@ -19,13 +19,9 @@
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
-		</screenshot>		
-		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
-		</screenshot>		
+			<description>cool ass icons or smth</description>
+			<image>IMG_8742.png</image>
+		</screenshot>	
 	</screenshots>
 	<changelog>
 		<change>renamed icons to correct bundleids</change>
