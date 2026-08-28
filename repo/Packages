@@ -5,8 +5,8 @@ Maintainer: w0nderhoy
 Depends: firmware (>7.0), mobilesubstrate, com.spark.snowboard
 Architecture: iphoneos-arm
 Filename: ./debs/com.w0nderhoy.amiatheme_1.0_iphoneos-arm.deb
-Size: 10145792
-MD5sum: c18c4fab8a1e16537c77768ba8eab12f
+Size: 10145092
+MD5sum: 494698D255940CCE21DC53C33A9A5F96
 Description: A theme with cute icons!
 Name: Akiyama Mizuki Theme
 Author: w0nderhoy
