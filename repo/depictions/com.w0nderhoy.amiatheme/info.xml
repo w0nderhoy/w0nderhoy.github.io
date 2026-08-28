@@ -1,7 +1,7 @@
 <package>
 	<id>com.w0nderhoy.amiatheme</id>
 	<name>Akiyama Mizuki Theme</name>
-	<version>1.0</version>
+	<version>1.0.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -28,9 +28,7 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>First release</change>
-		<change>It has Akiyama Mizuki</change>
-		<change>It has more Akiyama Mizuki</change>
+		<change>renamed icons to correct bundleids</change>
 	</changelog>
 	<links>
 		<link>

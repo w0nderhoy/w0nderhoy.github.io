@@ -1,14 +1,14 @@
 Package: com.w0nderhoy.amiatheme
-Version: 1.0
+Version: 1.0.1
 Section: Themes
 Maintainer: w0nderhoy <partitionhlep@gmail.com>
 Depends: com.spark.snowboard
 Architecture: iphoneos-arm
-Filename: ./debs/com.w0nderhoy.amiatheme_1.0_iphoneos-arm.deb
-Size: 10145124
-MD5sum: b96f02a96278de2bf4c85ed3781c45ee
-SHA1: e85ac03ad65a5042a724548ae3d2c140c9907a2d
-SHA256: 0429c6ed32ec28b0da90bb6bee7c2d6360ae61c86ad44a397d29d837a3ad5aa6
+Filename: ./debs/com.w0nderhoy.amiatheme_1.0.1_iphoneos-arm.deb
+Size: 10145244
+MD5sum: e0e0b64d19132c23bdce5963583b8b73
+SHA1: e620dc84acb91d5faab03f7cb03989be3ec0aa64
+SHA256: ae72603ce751a876cacdc0065b6f225dbce6100e402f257eed2d83238d80a164
 Description: A theme with cute icons!
 Name: Akiyama Mizuki Theme
 Author: w0nderhoy <partitionhlep@gmail.com>
