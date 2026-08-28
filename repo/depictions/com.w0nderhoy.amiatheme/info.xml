@@ -8,13 +8,11 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate</package>
+		<package>mobilesubstrate, com.spark.snowboard</package>
 	</dependencies>
 	<shortDescription>A theme with cute icons!</shortDescription>
 	<descriptionlist>
-		<description>A theme featuring Akiyama Mizuki from Project SEKAI.</description>
-		<description>It has more description lines.</description>
-		</description>
+		<description>Lil' PP.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
