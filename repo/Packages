@@ -4,7 +4,7 @@ Section: Themes
 Maintainer: w0nderhoy <partitionhlep@gmail.com>
 Depends: com.spark.snowboard
 Architecture: iphoneos-arm
-Filename: ./debs/com.w0nderhoy.amiatheme_1.0.1_iphoneos-arm.deb
+Filename: ./debs/com.w0nderhoy.amiatheme/com.w0nderhoy.amiatheme_1.0.1_iphoneos-arm.deb
 Size: 10145244
 MD5sum: e0e0b64d19132c23bdce5963583b8b73
 SHA1: e620dc84acb91d5faab03f7cb03989be3ec0aa64
@@ -15,18 +15,3 @@ Author: w0nderhoy <partitionhlep@gmail.com>
 Icon: https://w0nderhoy.github.io/repo/debicons/com.w0nderhoy.amiatheme.png
 Depiction: https://w0nderhoy.github.io/repo/depictions/?p=com.w0nderhoy.amiatheme
 
-Package: com.creativegamer03.fallingbreadtheme
-Version: 1.0.0
-Section: Themes
-Maintainer: nobody <nobody@nobody.com>
-Depends: com.spark.snowboard
-Architecture: iphoneos-arm
-Filename: ./debs/com.creativegamer03.fallingbreadtheme_1.0.0_iphoneos-arm64.deb
-Size: 468356
-MD5sum: 6a6e0f2718018b958a785b4199daedc7
-SHA1: cfb65173a0d6495bbc22598cc05eea8ce537b822
-SHA256: e0dce970d685244cf67d9f020babf1d852dc9ecd3d85b366a9ba0d78db128386
-Description: Falling bread.
-Name: Falling Bread Theme
-Author: creativegamer03 <some@email.com>
-Depiction: https://w0nderhoy.github.io/repo/depictions/?p=com.creativegamer03
