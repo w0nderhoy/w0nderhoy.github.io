@@ -19,7 +19,7 @@ Package: com.creativegamer03.fallingbreadtheme
 Version: 1.0.0
 Section: Themes
 Maintainer: nobody <nobody@nobody.com>
-Depends: 
+Depends: com.spark.snowboard
 Architecture: iphoneos-arm
 Filename: ./debs/com.creativegamer03.fallingbreadtheme_1.0.0_iphoneos-arm64.deb
 Size: 468356
@@ -28,5 +28,5 @@ SHA1: cfb65173a0d6495bbc22598cc05eea8ce537b822
 SHA256: e0dce970d685244cf67d9f020babf1d852dc9ecd3d85b366a9ba0d78db128386
 Description: Falling bread.
 Name: Falling Bread Theme
-Author: creativegamer03
+Author: creativegamer03 <some@email.com>
 Depiction: https://w0nderhoy.github.io/repo/depictions/?p=com.creativegamer03
