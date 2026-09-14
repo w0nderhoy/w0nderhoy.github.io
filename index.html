@@ -1,11 +1,33 @@
 <!DOCTYPE html>
+<!-- 
+hey hi hello! you shouldn't be here, you little rascal :3
+
+nah, i'm kidding. i'm putting this comment here because i'd
+like to give a huge shoutout to preloading (https://preloading.dev)
+since my website takes huge inspiration from his website. some
+of the layout, code, hell, even this comment, were stuff that i've
+stolen from him and i will very much admit that. i thank him
+lots for basically giving me some sort of baseline for my
+website. maybe you could even pass it on and take inspiration
+from my site for yours! or not, this site sucks lol. but yeah,
+check out preloading's stuff, he's cool.
+
+thanks for reading, and stay queer! trans rights!!!!!
+
+-w0nderhoy
+ -->
 <html>
 <body>
 
 <style>
-.hEader {
+.header {
+  margin-top: 25px;
   text-align: center;
-  animation: boing 1.5s infinite ease-in-out;
+  animation-name: boing;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+
 }
 
 @keyframes boing {
@@ -13,7 +35,7 @@
     transform: translateY(0);
   }
   50% {
-    transform: translateY(-5px);
+    transform: translateY(-3px);
   }
   100% {
     transform: translateY(0);
@@ -21,23 +43,68 @@
 }
 
 body {
-  background-image: url('repo/CydiaIcon.png');
-  color: white;
+  font-family: helvetica, sans-serif;
+  color: #ffffff;
   text-shadow: 0px 0px 4px #000000;
+}
+
+.background {
+  background-image:
+    url('assets/background.png');
+  -webkit-filter: blur(5px);
+  -moz-filter: blur(5px);
+  -o-filter: blur(5px);
+  -ms-filter: blur(5px);
+  filter: blur(5px);
+  background-size: cover;
+  background-position: center center;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -2;
+  transform: scale(1.015);
+ }
+ 
+.bgcol {
+  background-color: rgba(0, 0, 0, 0.5);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+ 
+.main {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+  border: 2px solid;
+  padding: 10px;
+  background-color: #000000;
 }
 
 </style>
 
-<div class="hEader">
-  <h1>w0nderhoy's website</h1>
-  <p>My first pp</p>
+<div class="bgcol">
+</div>
+<div class="background">
 </div>
 
-<div class="cydia">
+<div class="header">
+  <h1>w0nderhoy's website!</h1>
+</div>
+
+<div class="main">
+  <h2>Hi! I'm w0nderhoy.</h2>
+  <p>I like doing stuff, I guess. More coming soon...</p>
+  <br>
   <p>Oh yeah, I have a Cydia repo.</p>
-  <sub>it's in testing, however...</sub>
-  <p>If, for some reason, you want to add my repo check it out <a href="repo/index.html">here.</a></p>
-  </div>
+  <sub>there's only one thing on it, and it's a theme though...</sub>
+  <p>If, for some reason, you want to check out my repo, it's over <a href="repo/index.html">here.</a></p>
+</div>
 
 </body>
 </html>
